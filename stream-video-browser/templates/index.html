@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <meta name="viewport" content='width=device-width, initial-scale=1.0,text/html,charset=utf-8' >
+    <title>Pi Video Surveillance</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+      body,img{
+        margin:0;
+        padding:0;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Pi Video Surveillance</h1>
+   <img src="{{ url_for('video') }}">
+   <h1 style ="color:red">{{variable}}</h1> 
+   <!--
+    <input type="submit" name="submit_button" value="right">
+    <input type="submit" name="submit_button" value="left"> 
+    <input type="submit" name="submit_button" value="forward">
+    <input type="submit" name="submit_button" value="backward"> -->
+  </body>
+</html>

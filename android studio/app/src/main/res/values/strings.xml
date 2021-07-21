@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">finally</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="button">Button</string>
+    <string name="ip_address">ip_address</string>
+    <string name="booki">PETCAT</string>
+    <string name="PETCAT">PETCAT</string>
+    <string name="read_it_together">ROBOTICS CLUB IITK</string>
+    <string name="skip">follow us on</string>
+    <string name="login">Login</string>
+    <string name="email">IP Address</string>
+    <string name="password">Port</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forget_password">Forget Password.?</string>
+</resources>
